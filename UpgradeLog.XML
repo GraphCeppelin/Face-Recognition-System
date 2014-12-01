@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MvcApplication1">
+</Property><Property Name="Файл решения" Value="C:\Users\snk\Desktop\MvcApplication1\MvcApplication1.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\snk\Desktop\MvcApplication1\MvcApplication1.suo">
+</Property><Property Name="Date" Value="16 июля 2013 г.">
+</Property><Property Name="Time" Value="22:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MvcApplication1.sln" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\MvcApplication1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MvcApplication1.suo" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\MvcApplication1.suo">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="MvcApplication1.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\snk\Desktop\MvcApplication1\Backup\MvcApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="MvcApplication1.csproj.user" Description="Резервная копия проекта успешно создана как C:\Users\snk\Desktop\MvcApplication1\Backup\MvcApplication1.csproj.user">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Controllers\AccountController.cs" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Controllers\AccountController.cs">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Controllers\HomeController.cs" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Controllers\HomeController.cs">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Controllers\ImagePreviewController.cs.cs" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Controllers\ImagePreviewController.cs.cs">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Default.aspx.cs" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Global.asax.cs" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Global.asax.cs">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Default.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Default.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Global.asax" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Global.asax">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\jquery_form.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\jquery_form.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Web.config" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Web.config">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Content\Site.css" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Content\Site.css">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\jquery-1.3.2.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\jquery-1.3.2.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\jquery-1.3.2.min.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\jquery-1.3.2.min.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\jquery-1.3.2-vsdoc.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\jquery-1.3.2-vsdoc.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\jquery-1.3.2.min-vsdoc.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\jquery-1.3.2.min-vsdoc.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\MicrosoftAjax.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\MicrosoftAjax.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\MicrosoftAjax.debug.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\MicrosoftAjax.debug.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\MicrosoftMvcAjax.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\MicrosoftMvcAjax.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Scripts\MicrosoftMvcAjax.debug.js" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Scripts\MicrosoftMvcAjax.debug.js">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Account\ChangePassword.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Account\ChangePassword.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Account\ChangePasswordSuccess.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Account\ChangePasswordSuccess.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Account\LogOn.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Account\LogOn.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Account\Register.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Account\Register.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Home\About.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Home\About.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Home\Index.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Home\Index.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Shared\Error.aspx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Shared\Error.aspx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Shared\LogOnUserControl.ascx" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Shared\LogOnUserControl.ascx">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Shared\Site.Master" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Shared\Site.Master">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="Views\Web.config" Description="Успешно создана резервная копия файла C:\Users\snk\Desktop\MvcApplication1\Backup\Views\Web.config">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="MvcApplication1.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="MvcApplication1" Source="MvcApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MvcApplication1.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="MvcApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MvcApplication1" Source="MvcApplication1.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
